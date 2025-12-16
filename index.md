@@ -66,7 +66,7 @@ echo "======================================"
 ```
 
 
-> ***[Faith in fairness is a fairy tale](https://ukb-dt.github.io/ukb-mcgilchrist/).***       
+> ***[Faith in fairness is a fairy tale](https://ukb-dt.github.io/fff).***       
 > *Not because the universe is cruel, but because it is stochastic.*      
 > *We mistake probability for justice and then act surprised when the dice refuse to apologize.*      
 > -- Ilya Zosima
