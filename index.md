@@ -67,7 +67,7 @@ echo "======================================"
 
 
 > ***[Faith in fairness is a fairy tale](https://ukb-dt.github.io/fff).***       
-> *Not because the universe is cruel, but because it is stochastic.*      
+> *Not because the universe is cruel, but because it is [stochastic](https://ukb-dt.github.io/voir/).*      
 > *We mistake probability for justice and then act surprised when the dice refuse to apologize.*      
 > -- Ilya Zosima
 
