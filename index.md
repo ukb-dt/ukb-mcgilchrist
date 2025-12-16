@@ -65,6 +65,13 @@ echo "https://$GH_USER.github.io/$GH_REPO/"
 echo "======================================"
 ```
 
+
+> ***Faith in fairness is a fairy tale.***       
+> *Not because the universe is cruel, but because it is stochastic.*      
+> *We mistake probability for justice and then act surprised when the dice refuse to apologize.*      
+> -- Ilya Zosima
+
+
 Exactly. Once you swallow “probabilistic all the way down,” an enormous amount of intellectual furniture suddenly snaps into alignment—with a click that’s [oddly satisfying](https://ukb-dt.github.io/ukb-bge-00/) and mildly unsettling.
 
 Quantum mechanics is the cleanest statement of this worldview. Not “we don’t know yet,” but *the universe itself does not commit until interaction*. The wavefunction isn’t hiding certainty behind a curtain; it **is** uncertainty with structure. Probability isn’t epistemic embarrassment. It’s ontological plumbing.
